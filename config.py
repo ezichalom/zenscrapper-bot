@@ -8,8 +8,8 @@
 # ----------------------------------------------------------
 # Obtenha o TOKEN falando com @BotFather no Telegram
 # Obtenha o CHAT_ID rodando: python get_chat_id.py
-TELEGRAM_BOT_TOKEN = "SEU_TOKEN_AQUI"
-TELEGRAM_CHAT_ID   = "SEU_CHAT_ID_AQUI"
+TELEGRAM_BOT_TOKEN = "8623862068:AAEjLYd4KnZdcXrfAq066FOMptvrNbi6Md4"
+TELEGRAM_CHAT_ID   = "891873716"
 
 # ----------------------------------------------------------
 # 2. PALAVRAS-CHAVE PARA MONITORAR
